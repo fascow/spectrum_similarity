@@ -1,0 +1,69 @@
+###	0_K6\1
+###	Instrument: Autoflex Extreme
+###	Manufacturer: Bruker
+###    ###    Quality 0.50, S/N 2, BB C 4.9384 N 1.3577 O 1.4773 S 0.0417 H 7.7583, BB2 , RelIntens 0, MinIntens 0, MaxCharge 1, SNAP2 1
+###    Retain Residuals no, Create neutrally no,
+###    FullScan Parameters: AdductIon (+)+H (-)-H, LowMass 250, HighMass 4000, MaxCharge charge decon 4, MinPeaks 3
+###    Perf. isotope decon yes, Max Charge Istopic decon 10, MW agreement 0.00, Abund. cutoff 10.00, Envelope cutoff 75.00
+###    MaxRes   Parameters: AdductIon (+)+H (-)-H, LowMass 250, HighMass 4000 
+###    Perf. isotope decon yes, Max Charge Istopic decon 10, Abund. cutoff 2.00
+###    MSn      Parameters: AdductIon (+)+H (-)-H, LowMass 50, HighMass 2000 
+###    Perf. isotope decon yes, Max Charge Istopic decon 8, Abund. cutoff 2.00
+###    Global Charge Limit: no 3, Prefer FullScan Result: yes, Export what: 2 (0=non deconv/1=deconv only/2=mixed), NoMSMSSignals: 50, Intensity threshold: 100, NoMSSignals (deconv): 200, NoMSSignals (non-deconv): 200, NormalizeData: no, SingleCharged: no
+###	+MS, Baseline subtracted(0.80)
+
+713.3344	16838	1+	### 
+770.3493	18299	1+	### 
+798.5626	47864	1+	### 
+845.5153	13227	1+	### 
+849.4537	22558	1+	### 
+852.5529	14822	1+	### 
+866.5014	79449	1+	### 
+870.4210	15971	1+	### 
+871.4157	14574	1+	### 
+890.5235	12067	1+	### 
+912.0550	21655	1+	### 
+959.5564	351004	1+	### 
+980.7572	14063	1+	### 
+993.5842	24653	1+	### 
+1057.6569	73547	1+	### 
+1096.6761	22609	1+	### 
+1115.5848	16275	1+	### 
+1142.7391	12195	1+	### 
+1167.6883	10669	1+	### 
+1169.8276	10943	1+	### 
+1178.0876	28105	1+	### 
+1178.3865	26987	1+	### 
+1180.2456	16522	1+	### 
+1185.7501	1937556	1+	### 
+1191.8534	14778	1+	### 
+1208.7058	12020	1+	### 
+1213.8321	10709	1+	### 
+1231.7374	42941	1+	### 
+1236.7711	17864	1+	### 
+1251.7468	135182	1+	### 
+1381.8152	11277	1+	### 
+1407.7531	22496	1+	### 
+1425.8077	2013993	1+	### 
+1432.4597	23759	1+	### 
+1663.9698	12943	1+	### 
+1676.8418	43236	1+	### 
+1832.0401	63221	1+	### 
+2164.2593	23108	1+	### 
+2268.2339	52274	1+	### 
+2271.3449	36455	1+	### 
+2282.3047	1478682	1+	### 
+2330.2776	22746	1+	### 
+2368.6534	16739	1+	### 
+2474.3596	48931	1+	### 
+2623.5468	25839	1+	### 
+2630.9909	23168	1+	### 
+2634.4033	29049	1+	### 
+2646.7964	425899	1+	### 
+2682.4906	202983	1+	### 
+2699.5316	393266	1+	### 
+2896.8648	183278	1+	### 
+2932.6671	151734	1+	### 
+2948.7003	204360	1+	### 
+3188.6460	23600	1+	### 
+3222.5873	313622	1+	### 

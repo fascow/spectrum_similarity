@@ -1,0 +1,57 @@
+###	0_K9\1
+###	Instrument: Autoflex Extreme
+###	Manufacturer: Bruker
+###    ###    Quality 0.50, S/N 2, BB C 4.9384 N 1.3577 O 1.4773 S 0.0417 H 7.7583, BB2 , RelIntens 0, MinIntens 0, MaxCharge 1, SNAP2 1
+###    Retain Residuals no, Create neutrally no,
+###    FullScan Parameters: AdductIon (+)+H (-)-H, LowMass 250, HighMass 4000, MaxCharge charge decon 4, MinPeaks 3
+###    Perf. isotope decon yes, Max Charge Istopic decon 10, MW agreement 0.00, Abund. cutoff 10.00, Envelope cutoff 75.00
+###    MaxRes   Parameters: AdductIon (+)+H (-)-H, LowMass 250, HighMass 4000 
+###    Perf. isotope decon yes, Max Charge Istopic decon 10, Abund. cutoff 2.00
+###    MSn      Parameters: AdductIon (+)+H (-)-H, LowMass 50, HighMass 2000 
+###    Perf. isotope decon yes, Max Charge Istopic decon 8, Abund. cutoff 2.00
+###    Global Charge Limit: no 3, Prefer FullScan Result: yes, Export what: 2 (0=non deconv/1=deconv only/2=mixed), NoMSMSSignals: 50, Intensity threshold: 100, NoMSSignals (deconv): 200, NoMSSignals (non-deconv): 200, NormalizeData: no, SingleCharged: no
+###	+MS, Baseline subtracted(0.80)
+
+712.2823	26682	1+	### 
+712.5379	19675	1+	### 
+715.3814	11109	1+	### 
+720.4366	15273	1+	### 
+732.3949	20494	1+	### 
+785.4898	25883	1+	### 
+804.5352	12149	1+	### 
+833.5254	101637	1+	### 
+848.5335	13766	1+	### 
+912.0511	16779	1+	### 
+960.6179	42925	1+	### 
+964.6425	18060	1+	### 
+994.6409	25065	1+	### 
+1057.6757	40957	1+	### 
+1139.7440	67978	1+	### 
+1167.7491	14130	1+	### 
+1178.4950	15357	1+	### 
+1185.8161	1837346	1+	### 
+1193.2182	15024	1+	### 
+1195.8963	13577	1+	### 
+1197.7575	17934	1+	### 
+1231.8628	27190	1+	### 
+1234.8368	24251	1+	### 
+1236.9343	14788	1+	### 
+1244.8297	14563	1+	### 
+1380.8712	16522	1+	### 
+1409.8865	30658	1+	### 
+1411.9276	40437	1+	### 
+1413.7698	14619	1+	### 
+1422.9199	19560	1+	### 
+1425.8885	1701269	1+	### 
+1433.8120	15803	1+	### 
+1482.9890	65835	1+	### 
+1534.9856	44782	1+	### 
+1664.2414	18668	1+	### 
+1729.0319	132640	1+	### 
+1737.0878	75785	1+	### 
+2056.3464	40591	1+	### 
+2282.4103	438177	1+	### 
+2590.4379	30969	1+	### 
+2699.6283	311096	1+	### 
+2900.7569	24577	1+	### 
+2949.7945	225148	1+	### 

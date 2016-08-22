@@ -1,0 +1,78 @@
+###	Instrument: amaZon speed ETD
+###	Manufacturer: Bruker
+###    PeakWidth 0.15/0.30, MiniumIntensity 100, S/N 1
+###    Retain Residuals no, Create neutrally no,
+###    FullScan Parameters: AdductIon (+)+H (-)-H, LowMass 250, HighMass 4000, MaxCharge charge decon 4, MinPeaks 3
+###    Perf. isotope decon yes, Max Charge Istopic decon 10, MW agreement 0.00, Abund. cutoff 10.00, Envelope cutoff 75.00
+###    MaxRes   Parameters: AdductIon (+)+H (-)-H, LowMass 250, HighMass 4000 
+###    Perf. isotope decon yes, Max Charge Istopic decon 10, Abund. cutoff 2.00
+###    MSn      Parameters: AdductIon (+)+H (-)-H, LowMass 50, HighMass 2000 
+###    Perf. isotope decon yes, Max Charge Istopic decon 8, Abund. cutoff 2.00
+###    Global Charge Limit: no 3, Prefer FullScan Result: yes, Export what: 2 (0=non deconv/1=deconv only/2=mixed), NoMSMSSignals: 50, Intensity threshold: 100, NoMSSignals (deconv): 2, NoMSSignals (non-deconv): 0, NormalizeData: no, SingleCharged: no
+###	-MS2(1038.90), 40.9-41.3min #1544-1555
+
+###FS:    #m/z: 1038.896 #charge  -2
+###MaxRes:#m/z:    0.000 #charge-128
+###MS: 
+###MSMS: 
+BEGIN IONS
+TITLE=-MS2(1038.90), 40.9-41.3min #1544-1555
+RTINSECONDS=0
+SCANS=MS:  MSMS: 
+PEPMASS=1038.896	
+
+774.279	515	2-
+782.795	2226	2-
+835.324	567	2-
+845.837	513	2-
+866.835	833	2-
+875.840	635	2-
+926.859	1257	2-
+935.857	1214	2-
+948.857	1565	2-
+956.862	4925	2-
+961.334	1179	1-
+979.336	1619	1-
+1017.866	1613	2-
+1506.498	723	1-
+1524.488	1502	1-
+1548.563	343	1-
+1709.529	862	1-
+1727.555	986	1-
+350.131	186	
+424.129	185	
+470.163	107	
+571.272	133	
+655.281	281	
+693.277	186	
+701.796	175	
+753.284	110	
+817.306	126	
+854.843	242	
+856.338	271	
+856.856	160	
+918.836	114	
+919.350	157	
+943.362	124	
+965.824	165	
+987.833	184	
+1008.878	507	
+1009.345	292	
+1028.832	170	
+1029.861	123	
+1344.464	236	
+1345.476	118	
+1362.437	146	
+1386.472	111	
+1387.449	150	
+1422.494	154	
+1423.523	136	
+1515.566	126	
+1547.520	141	
+1626.512	212	
+1627.524	181	
+1713.591	192	
+1714.570	122	
+1787.607	106	
+END IONS
+
