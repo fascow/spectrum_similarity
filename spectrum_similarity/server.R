@@ -75,7 +75,7 @@ compare_spectra <- function(file1, name1, file2, name2, plot_title = "",
                                                        t = tolerance, 
 													   b = baseline_threshold)
   title(plot_title)
-  corner_text(paste0("Mass Spectral Similarity Score: ", round(similarity_score, digits = 4)))
+  corner_text(paste0("Mass Spectra Similarity Score: ", round(similarity_score, digits = 4)))
   theplot <- recordPlot()
   #graphics.off()
   

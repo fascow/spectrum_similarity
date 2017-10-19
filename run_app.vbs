@@ -5,6 +5,6 @@ Dim oShell
 Dim strArgs
 
 Set oShell = CreateObject("Wscript.Shell") 
-strArgs = "cmd /c " + chr(34) + chr(34) + "C:\Program Files\R\R-3.0.2\bin\Rscript.exe" + chr(34) + " --slave --vanilla " + chr(34) + "run_spectrum_similarity.R" + chr(34) + chr(34)
+strArgs = "cmd /c " + chr(34) + chr(34) + "C:\Program Files\R\R-3.0.2\bin\Rscript.exe" + chr(34) + " --slave --vanilla " + chr(34) + "run_app.R" + chr(34) + chr(34)
 
 oShell.Run strArgs, 0, false
